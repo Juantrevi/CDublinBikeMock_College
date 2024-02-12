@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Imx4FPYGfXCpZv30KnEguftfzsNwI1INm9XYpcQHbMGw0s3/S/cXbdVCXZo3XEiAqKcQQxv3IZSmqjZXrxMDDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juant\\OneDrive\\Escritorio\\Dorset\\7 - OOP\\DublinBikeMock\\DublinBikeMock\\DublinBikeMock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juant\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
